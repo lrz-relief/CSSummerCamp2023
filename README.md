@@ -6,41 +6,144 @@
 
 另附[保研小白必看的往年经验贴大全，建议全部看完至少掌握保研流程，否则容易问一些很显然的问题](https://github.com/CS-BAOYAN/CS-BAOYAN-2023)。
 
-# 上海科技大学
+# 清华大学
 
-【报名截止：2023.6.15】[临港实验室&上海科技大学联培 直博](https://mp.weixin.qq.com/s/s8iTM4Z8AlWbnaq9PMVGRg)
+【报名截止：2023.5.15】[交叉信息研究院](https://admission.iiis.tsinghua.edu.cn/2023/appinfo.php)
 
-# 中国科学院数学与系统科学研究院
+【报名截止：N/A】[智能产业研究院 AIR](https://mp.weixin.qq.com/s/SbJz9hzaaYDftQktzO70Qw)
 
-【报名截止：2023.4.16】[推荐免试研究生选拔](http://www.amss.ac.cn/yjsjy/zs/sszs/202303/t20230322_6707035.html)
+~~【报名截止：2023.4.30】[自动化系智能与网络化系统研究中心](https://mp.weixin.qq.com/s/V93_HfSlbGKiCPTlT2qaiA)~~
 
-# 香港大学
+~~【报名截止：2023.4.14】[统计学研究中心](http://www.stat.tsinghua.edu.cn/admissions/summer-camp-enroll/)~~
 
-【报名截止：2023.5.1】[HKU CS Early Recruitment Scheme for M.Phil. and Ph.D.](https://i.cs.hku.hk/~gradappl/index.html)
+# 南京大学
+
+【报名截止：2023.6.1】[计算机软件研究所 本科生开放日](https://cs.nju.edu.cn/ics/recruit/index.html)
+
+【报名截止：2023.5.30】[NJUNLP 额外考核](https://mp.weixin.qq.com/s/QmuYVNNsqqfZ66pG6VvB0A)
+
+【报名截止：2023.5.15】[LAMDA 额外考核](http://www.lamda.nju.edu.cn/recruit-2024/recruit-2024.html)
+
+# 复旦大学
+
+【报名截止：2023.5.31】[计算机科学技术学院](https://cs.fudan.edu.cn/7b/0b/c24257a490251/page.htm)
+
+【报名截止：2023.5.31】[大数据学院](https://sds.fudan.edu.cn/7a/51/c17701a490065/page.htm)
+
+【报名截止：2023.5.31】[信息科学与工程学院](http://www.it.fudan.edu.cn/Data/View/4398)
+
+【报名截止：2023.5.31】[工程与应用技术研究院](http://faet.fudan.edu.cn/7b/e8/c23815a490472/page.htm)
+
+【报名截止：2023.5.31】[类脑智能科学与技术研究院](https://istbi.fudan.edu.cn/info/1167/4890.htm)
+
+【报名截止：2023.5.31】[脑科学研究院](https://iobs.fudan.edu.cn/7a/7a/c17308a490106/page.htm)
+
+【报名截止：2023.5.31】[智能医学研究院](https://imi.fudan.edu.cn/info/1033/1323.htm)
+
+# 中国科学技术大学
+
+【报名截止：N/A】[MIRA Lab](https://miralab.ai/admission/admission_2023/)
 
 # 香港中文大学
 
-【报名截止：2023.5.12】[CUHK CSE Early Admission for M.Phil. and Ph.D.](https://www.cse.cuhk.edu.hk/admission/mphil-phd/early-admission/)
+【报名截止：2023.6.11】[工程学院系统工程与工程管理系（SEEM） 博士](https://mp.weixin.qq.com/s/aF4c6ngbn1JgyaZIXfahig)
 
-# 清华大学
+【报名截止：2023.6.10】[数据科学理学 硕士](https://mp.weixin.qq.com/s/g7ubbjLPqLKnP3P0Zbl45Q)
 
-【报名截止：2023.4.30】[自动化系智能与网络化系统研究中心](https://mp.weixin.qq.com/s/V93_HfSlbGKiCPTlT2qaiA)
+~~【报名截止：2023.5.12】[CUHK CSE Early Admission for M.Phil. and Ph.D.](https://www.cse.cuhk.edu.hk/admission/mphil-phd/early-admission/)~~
 
-【报名截止：2023.4.14】[统计学研究中心](http://www.stat.tsinghua.edu.cn/admissions/summer-camp-enroll/)
+# 中国科学院
 
-# 上海交通大学
+【报名截止：2023.7.1】 [软件研究所](http://www.is.cas.cn/yjsjy2016/zsxx2016/202305/t20230510_6751443.html)
 
-【报名截止：2023.3.30】[密西根学院 “科研见习项目”](https://jwc.sjtu.edu.cn/info/1222/12276.htm)
+【报名截止：2023.6.20】 [声学所](http://www.ioa.cas.cn/yjs/zsxx/zstz/202305/t20230509_6750931.html)
 
-# 中国科学院自动化研究所
+【报名截止：2023.6.20】[脑科学与智能技术卓越创新中心](http://www.ion.ac.cn/zsxx/202303/t20230330_6720256.html)
 
-~~【报名截止：2023.2.28】[“人工智能菁英班”项目](https://mp.weixin.qq.com/s/7AuOk-fl3zrHBZ8FOC75Vw)~~
+【报名截止：2023.6.11】[华大专项](https://mp.weixin.qq.com/s?__biz=MzA3MTc1OTAzMg==&mid=2650160774&idx=1&sn=1c3d8fb293ea456d61eea92285fa5a46&chksm=872a3b51b05db2472ce1b5bf1f668f666b96908ca6ab5c3489dea450676e021028219f06b9f5&scene=126&sessionid=1683108272#rd)
+
+【报名截止：2023.5.15】[计算所 春闱计划](http://www.ict.cas.cn/yjsjy/zsxx/sszs/202305/t20230512_6753303.html)
+
+【报名截止：N/A】[空天信息创新研究院 春令营](https://mp.weixin.qq.com/s/kPkHMAKjcdQzZd6WTPjqGA)
+
+【报名截止：N/A】[杭州高等研究院](http://hias.ucas.ac.cn/info/1100/4428.htm)
+
+~~【报名截止：2023.4.16】[数学与系统科学研究院](http://www.amss.ac.cn/yjsjy/zs/sszs/202303/t20230322_6707035.html)~~
+
+~~【报名截止：2023.2.28】[自动化研究所 “人工智能菁英班”项目](https://mp.weixin.qq.com/s/7AuOk-fl3zrHBZ8FOC75Vw)~~
+
+# 南开大学
+
+【报名截止：2023.6.20】[软件学院](https://cs.nankai.edu.cn/info/1042/3466.htm)
+
+# 中山大学
+
+【报名截止：2023.6.5】[电子与通信工程学院](https://sece.sysu.edu.cn/zs/zs01/1408893.htm)
+
+# 华东师范大学
+> https://yjszs.ecnu.edu.cn/system/xlyjbxx_list.asp
+
+【报名截止：2023.6.19】[计算机学院](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2023050420050017104300)
+
+【报名截止：2023.6.12】[软件学院](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2023051020179966101311)
+
+【报名截止：2023.6.9】[中法联培](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2023050920150075093014)
+
+# 电子科技大学
+
+【报名截止：2023.6.20】[基础与前沿研究院](https://www.iffs.uestc.edu.cn/info/1067/5580.htm)
+
+# 西湖大学
+
+【报名截止：2023.6.12】[西湖大学&浙江大学联培 直博](https://www.westlake.edu.cn/admissions_aid/shorttermprograms/tzgg/202304/t20230411_27260.shtml)
+
+# 吉林大学
+
+【报名截止：2023.5.28】[计算机学院](http://ccst.jlu.edu.cn/info/1229/18143.htm)
+
+【报名截止：2023.5.20】[软件学院](https://mp.weixin.qq.com/s/_AmyjqmMfr3iQ1MFXpx7Ag)
+
+# 杭州电子科技大学
+
+【报名截止：2023.8.1】[智能信息处理实验室](https://mp.weixin.qq.com/s/eRH3XjcxzjGSw4MjDg_5gw)
+
+# 上海科技大学
+
+【报名截止：2023.6.30】[信息科学与技术学院](https://sist.shanghaitech.edu.cn/2023/0424/c7339a1077054/page.htm)
+
+【报名截止：2023.6.15】[临港实验室&上海科技大学联培 直博](https://mp.weixin.qq.com/s/s8iTM4Z8AlWbnaq9PMVGRg)
+
+# 南方科技大学
+
+【报名截止：2023.6.15】[深港微电子学院](https://mp.weixin.qq.com/s/bRyGtRCLblbCug06xhLb9g)
+
+【报名截止：2023.6.10】[统计与数据科学系](https://stat-ds.sustech.edu.cn/notice/284)
+
+# 南京信息工程大学
+
+【报名截止：2023.6.15】[人工智能学院（未来技术学院）夏令营 第一轮](https://rgzn.nuist.edu.cn/info/1033/2842.htm)
 
 # 澳门大学
+
+【报名截止：2023.5.31】[澳門大學科技學院舆協同劊新硏究院聯合𡒊辧 暑期研習營](https://www.fst.um.edu.mo/event/the-4th-summer-camp-for-outstanding-students-now-open-for-application-2/)
 
 ~~【报名截止：2023.2.20】[澳门大学&广东省智能科学技术研究院联培（可视化，知识图谱）](https://mp.weixin.qq.com/s/UptD231MDxDdl54PteALcg)~~
 
 ~~【报名截止：2023.2.20】[澳门大学&广东省智能科学技术研究院联培（类脑）](https://mp.weixin.qq.com/s/SniRr_4xNk23BBImXh3Dsg)~~
+
+# 香港大学
+
+~~【报名截止：2023.5.1】[HKU CS Early Recruitment Scheme for M.Phil. and Ph.D.](https://i.cs.hku.hk/~gradappl/index.html)~~
+
+# 香港中文大学（深圳）
+
+~~【报名截止：2023.4.9】[数据科学理学硕士 Mini营 北京场](https://mscds.cuhk.edu.cn/nshow-2538.html)~~
+
+# 上海交通大学
+
+> https://yzb.sjtu.edu.cn/info/1005/3697.htm
+
+~~【报名截止：2023.3.30】[密西根学院 “科研见习项目”](https://jwc.sjtu.edu.cn/info/1222/12276.htm)~~
 
 # 澳门科技大学
 
